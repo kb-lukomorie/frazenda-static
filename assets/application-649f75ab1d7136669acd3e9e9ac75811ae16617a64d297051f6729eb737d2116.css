@@ -8674,7 +8674,9 @@ body {
 
 .cards {
     display: flex;
-    flex-wrap: wrap
+    flex-wrap: wrap;
+    margin-bottom: 80px;
+
 }
 
 .cards .card {
